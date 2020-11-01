@@ -20,6 +20,6 @@ This project assumes some familiarity with SageMaker, the IMDB Sentiment Analysi
 Please see the [original README](https://github.com/udacity/sagemaker-deployment/tree/master/README.md) in the root directory for instructions on setting up a SageMaker notebook and downloading the project files (as well as the other notebooks). For the solutions only clone this repository:
 
 ```
-git clone git@github.com:prateeksawhney97/Deploying-a-Sentiment-Analysis-Model-on-Amazon-Sagemaker.git
+git clone git@github.com:bhaveshwadhwani/Deploying-a-Sentiment-Analysis-Model-on-Amazon-Sagemaker.git
 exit
 ```
